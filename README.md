@@ -1,2 +1,2 @@
 # hello-world
-Just a training
+Just want to say hello world
